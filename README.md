@@ -1,1 +1,2 @@
 # VisionTransformer
+This project takes on the challenge of building the Vision Transformer (ViT) from the ground up. The ViT is a revolutionary method that uses transformer technology, originally designed for text processing, to tackle image classification tasks. By closely following the architecture and training guidelines from the original ViT research, this project seeks to unravel the complex details of how transformer models can be applied to visual data. Our goal is to provide insights into their powerful features and how they work on the inside.
